@@ -1,0 +1,36 @@
+
+@charset "utf-8";
+
+
+p {
+    font-size: 200&;
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    font-size: 200%;
+}
+
+#babyobama {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pic2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer {
+    background-color: lightgray;
+    text-align: center;
+}
